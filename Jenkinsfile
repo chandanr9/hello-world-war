@@ -5,7 +5,7 @@ pipeline {
            
             
             steps {
-                sh 'git clone https://github.com/chandanr9/hello-world-war.git
+                sh 'git clone https://github.com/chandanr9/hello-world-war.git'
             }
         }
     }
