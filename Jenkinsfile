@@ -5,7 +5,7 @@ pipeline {
         
             
             steps {
-		sh 'rm -rf hello-world-war'
+		
                 sh 'git clone https://github.com/chandanr9/hello-world-war.git'
             }
         }
